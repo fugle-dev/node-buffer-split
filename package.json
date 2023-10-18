@@ -1,9 +1,9 @@
 {
-  "name": "buffer-split",
+  "name": "@fugle/buffer-split",
   "description": "split a buffer by another buffer. think String.split()",
   "version": "1.0.0",
   "repository": {
-    "url": "git://github.com/soldair/node-buffer-split.git"
+    "url": "git://github.com/fugle-dev/node-buffer-split.git"
   },
   "keywords": [
     "buffer",
@@ -17,7 +17,7 @@
   },
   "author": "Ryan Day",
   "dependencies": {
-    "buffer-indexof": "~0.0.0"
+    "buffer-indexof": "~1.1.1"
   },
   "devDependencies": {
     "tape": "~1.1.0"

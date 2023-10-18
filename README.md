@@ -1,5 +1,5 @@
 
-[![Build Status](https://secure.travis-ci.org/soldair/node-buffer-split.png)](http://travis-ci.org/soldair/node-buffer-split)
+[![Build Status](https://secure.travis-ci.org/fugle-dev/node-buffer-split.png)](http://travis-ci.org/fugle-dev/node-buffer-split)
 
 buffer-split
 ============
